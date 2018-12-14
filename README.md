@@ -35,7 +35,7 @@ The [Contributor Guide] provides detailed instructions on how to get your code a
   2. Doing some other thing!
   3. Perhaps doing a final thing!?
 
-## Maintainership
+## Membership
 
-We encourage all contributors to become maintainers. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn about requirements of maintainership in our [Community Membership](to be added later) page.
+We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn about requirements and perks of membership in our [Community Membership](to be added later) page.
 
