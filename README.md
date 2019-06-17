@@ -62,7 +62,6 @@ We encourage all contributors to become project members. We aim to grow an activ
 
 ### Contributors
 - [Contributor Licenses](./contributors/software-licenses.md)
-- [Distribution Guidelines](./contributors/distribution-guidelines.md)
 
 **Guide**
 - [README](./contributors/guide/README.md)
@@ -91,6 +90,10 @@ We encourage all contributors to become project members. We aim to grow an activ
 - [Project Setup](./repo-management/project-required-setup.md)
 - [Repo States](./repo-management/repo-states.md)
 - [GitHub Labels](./repo-management/github-labels.md)
+
+### Distributions
+- [Distribution Guidelines](./distributions/distribution-guidelines.md)
+- [Community Distributions](./distributions/community-distributions.md)
 
 
 ### Guilds
