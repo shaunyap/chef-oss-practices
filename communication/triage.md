@@ -13,6 +13,14 @@ Each team should feel free to use whatever tools they want so long as they can m
   - The call should be recorded each time the call occurs.
   - Following the end of the call, the recording must be published to a public location.
 
+### Suggested Process
+
+Following this process is not required, but it is suggested here as a place to start.
+
+- 1 hr prior to call - Announce that triage will happen soon in the Chef Community Slack or Habitat Slack (choose whichever Slack and whichever channel is most appropriate). Mention that if anyone wants to join, please DM the person posting the announcement for the Zoom link (_do not share the zoom link publicly, especially on social media_).
+- At time for call - start Zoom call. Invite any community members who requested to be a part of it using the Zoom url. _Make sure to start recording the call - recording to the cloud usually works better than recording to your workstation_.Conduct triage as outlined above.
+- After the call - when the recording finishes processing, send a link to Garth Avery in Marketing through the Chef internal Slack. His staff will add intro and outro bumpers, then post the video the [Triage Playlist]()
+
 ### Representation
 
 Some projects at Chef are larger than others. Some projects have a few repositories attached to them, others have tens or hundreds of repositories. Depending on how each project decides to roll out their public triage, this may have an effect on the number of project or sub-project repos that are covered by a single triage. For example in Habitat, we have a single triage call for core-plans, habitat cli, habitat supervisor, builder, on-prem depot, hab k8s modules, hab studio, etc. This is a significant number of repositories and a significant number of projects and sub-projects. Because of the decision to operate this way, we have a responsibility to have appropriate project representation on each call. What this means is - if your public triage call cross-cuts an organization, a representative from each team/vertical/project/sub-project within that organization **must be present on the call** and one person will likely need to act as a meeting host.
