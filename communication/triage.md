@@ -17,9 +17,9 @@ Each team should feel free to use whatever tools they want so long as they can m
 
 Following this process is not required, but it is suggested here as a place to start.
 
-- 1 hr prior to call - Announce that triage will happen soon in the Chef Community Slack or Habitat Slack (choose whichever Slack and whichever channel is most appropriate). Mention that if anyone wants to join, please DM the person posting the announcement for the Zoom link (_do not share the zoom link publicly, especially on social media_).
-- At time for call - start Zoom call. Invite any community members who requested to be a part of it using the Zoom url. _Make sure to start recording the call - recording to the cloud usually works better than recording to your workstation_.Conduct triage as outlined above.
-- After the call - when the recording finishes processing, send a link to Garth Avery in Marketing through the Chef internal Slack. His staff will add intro and outro bumpers, then post the video the [Triage Playlist]()
+- **1 hr prior to call** - Announce that triage will happen soon in the Chef Community Slack or Habitat Slack (choose whichever Slack and whichever channel is most appropriate). Mention that if anyone wants to join, please DM the person posting the announcement for the Zoom link (_do not share the zoom link publicly, especially on social media_).
+- **At time for call** - start Zoom call. Invite any community members who requested to be a part of it using the Zoom url. _Make sure to start recording the call - recording to the cloud usually works better than recording to your workstation_.Conduct triage as outlined above.
+- **After the call** - when the recording finishes processing, send a link to Garth Avery in Marketing through the Chef internal Slack. His staff will add intro and outro bumpers, then post the video the [Triage Playlist](https://www.youtube.com/playlist?list=PL11cZfNdwNyMMffxAIvH3bfTVv6W65oIh).
 
 ### Representation
 
