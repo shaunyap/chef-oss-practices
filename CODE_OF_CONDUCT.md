@@ -35,6 +35,7 @@ new features/pull requests, and anyone who is seeking help and guidance.
 
 The following list isn’t exhaustive, but these few examples can help all of us
 communicate well, so that the community can work better together:
+
   - Use welcoming and inclusive language
   - Exercise patience and friendliness
   - Be respectful of differing viewpoints and experiences
@@ -47,6 +48,7 @@ chat), Discourse, the issue tracker, and any other forum that is used by the
 community.
 
 Please keep in mind that:
+
   - Your work will be used by other people, and you, in turn, will depend on the
     work of others
   - Decisions that you make often will affect others in the community
@@ -79,6 +81,7 @@ Harassment comes in many forms, including but not limited to:
     permission ("doxing")
 
 As a community that meets in physical public spaces, harassment also includes:
+
   - Stalking or persistent following
   - Intrusive or otherwise unwanted photography or recording
   - Sustained disruption of talks or other events
