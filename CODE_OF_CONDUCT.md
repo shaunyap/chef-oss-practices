@@ -3,7 +3,7 @@
 **Note**: If you are in a physical space (e.g. ChefConf, Meetup, etc), please
 see the [Physical Spaces Code of Conduct](physical-spaces-code-of-conduct.md)
 
-## Our Pledge
+## Our Pledges
 
 Diversity is one of the greatest strengths that a community can have, and many times
 that strength is born from the friction that can only come through sharing of
@@ -35,6 +35,7 @@ new features/pull requests, and anyone who is seeking help and guidance.
 
 The following list isn’t exhaustive, but these few examples can help all of us
 communicate well, so that the community can work better together:
+
   - Use welcoming and inclusive language
   - Exercise patience and friendliness
   - Be respectful of differing viewpoints and experiences
@@ -47,6 +48,7 @@ chat), Discourse, the issue tracker, and any other forum that is used by the
 community.
 
 Please keep in mind that:
+
   - Your work will be used by other people, and you, in turn, will depend on the
     work of others
   - Decisions that you make often will affect others in the community
